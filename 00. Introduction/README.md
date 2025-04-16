@@ -60,6 +60,10 @@ Next.js solve all these problems of React.js with some additional features such 
 >8.**`Performance:`** Next.js  also priortize performance, features like `code-splitting`, `optimize imag handling`, and `static side generation` ensures that your app runs superfast.
 
 ---
+# How to install Next.js:
+
+>## *use command:* `npx create-next-app@latest`
+
 
 
 
